@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Technical Specialist with a drive to develop usable, reliable and adaptable code to solve real world issues.If you find value in something have developed,<br>
-drop a shout out @Richdevs or drop some love on mail. You can also reach out on my socials.
+I am a Technical Specialist with a drive to develop usable, reliable and adaptable code to solve real world issues.If you find value in something have developed,drop a shout out @Richdevs or drop some love on mail. You can also reach out on my socials.
 
 
 ## 🌐 Socials:
